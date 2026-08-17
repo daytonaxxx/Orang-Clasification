@@ -1,2 +1,2 @@
-# Orang-Clasification
-This my new project try to improve my skill
+# Orange-Clasification
+The reason I made this cause i want to improve my skills cause 
